@@ -1,4 +1,4 @@
-# NTU CSIE Computer Vision 2021 Fall
+# 2021 Fall - NTU CSIE Computer Vision
 ## Personal Homework Assignment
 - Alex Hsu
 - Email: alex9810171@gmail.com
